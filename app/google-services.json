@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "698644167399",
+    "project_id": "webrtcvideo-chat",
+    "storage_bucket": "webrtcvideo-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698644167399:android:696132c850a93e6c238042",
+        "android_client_info": {
+          "package_name": "com.mayank.webrtcvideochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698644167399-g2qmkl27ef4l83uudrre9jb6kf0bj91q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayank.webrtcvideochat",
+            "certificate_hash": "94f59173ed6b1beed8e6126e4e915c4244be65a1"
+          }
+        },
+        {
+          "client_id": "698644167399-2nvn1odgrt6elej2inlr09rdd96915i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPN7zJYi636gj8kOjrtV0UZZPzNl5cSr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698644167399-2nvn1odgrt6elej2inlr09rdd96915i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
